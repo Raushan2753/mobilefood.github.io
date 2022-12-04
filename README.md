@@ -7,4 +7,4 @@ Here I have build an API which allows the following operations on this data set
 4. Add new food truck entry to the dataset
 5. Given a delivery location, find out the closest truck possible.
 
-For the closet trck possible, I have used a gem called Geokit, and implemented the act_as_mappable function to calculate the distance between two points whose latitude and longitude are given.
+For the closest truck possible, I have used a gem called Geokit, and implemented the act_as_mappable function to calculate the distance between two points whose latitude and longitude are given.
